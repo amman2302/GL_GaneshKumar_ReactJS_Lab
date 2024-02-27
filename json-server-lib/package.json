@@ -1,0 +1,12 @@
+{
+  "name": "json-server-lib",
+  "version": "1.0.0",
+  "description": "Step 1:-      mkdir json-server-lib     cd json-server-lib     npm init -y     npm i -g json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
